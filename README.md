@@ -7,6 +7,7 @@ This script is written in python3.x and will separate the emojis from the given 
 1.  Convert the CSV into Excel by decoding with `65001: Unicode (UTF-8)` using delimiter option.
 
   How to ?
+  
     * Open excel file
     * Import csv using following options
 
